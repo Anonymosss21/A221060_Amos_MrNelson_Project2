@@ -1,4 +1,4 @@
-package com.example.a221060_amos_mrnelson_project1
+package com.example.a221060_amos_mrnelson_project2
 
 import org.junit.Test
 
